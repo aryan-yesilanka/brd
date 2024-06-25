@@ -1,7 +1,16 @@
+```markdown
+---
+title: ArtMitra User Journey
+---
+
+# ArtMitra User Journey
+
+## Seller Journey
 
 ```mermaid
 journey
     title User Journey for ArtMitra
+
     %% Seller Journey
     section Seller
     phase "Registration" {
@@ -52,4 +61,3 @@ journey
         feeling "Satisfied with product" : satisfied
         pain "Review submission problems" : annoyed
     }
-
