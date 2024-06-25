@@ -2,7 +2,6 @@
 ```mermaid
 journey
     title User Journey for ArtMitra
-
     %% Seller Journey
     section Seller
     phase "Registration" {
