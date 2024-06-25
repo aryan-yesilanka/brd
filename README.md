@@ -1,6 +1,3 @@
-# ArtMitra User Journey
-
-## Seller Journey
 
 ```mermaid
 journey
